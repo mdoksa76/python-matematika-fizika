@@ -1,5 +1,5 @@
 # python-matematika-osnovna-skola
-Primjena pythona u matematičkim zadacima osnovne škole
+Primjena pythona u matematičkim problemima osnovne škole
 
 linearna-funkcija.py
   - crtanje grafa linearne funckije
