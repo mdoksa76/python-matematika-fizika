@@ -6,4 +6,4 @@ linearna-funkcija.py
   - izračun sjecišta pravaca
   - snimanje slike u .eps i .jpg formatu
   
-  * lineana funkcija je matematičko gradivo 7. razreda
+  * linearna funkcija je matematičko gradivo 7. razreda
