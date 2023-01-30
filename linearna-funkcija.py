@@ -43,7 +43,7 @@ def kks():
         if i*100!=0 and i*100!=400:
             t.write(i*100)
 
-    # y-os ordinata
+    # y-os (ordinata)
     t.up()
     t.goto(0,-300)
     t.down()
@@ -75,7 +75,7 @@ def kks():
     t.write("Y")
     t.ht()
 
-#funkcija za crtanje grafa unutar okvira radnog prozora
+# funkcija za crtanje grafa unutar okvira radnog prozora
 def pravac(a,b):
     if a*(-400)+b<-300 or a*400+b>300:
         x1=int((-300-b)/a)
