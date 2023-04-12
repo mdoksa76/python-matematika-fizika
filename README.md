@@ -1,5 +1,5 @@
-# python-matematika-osnovna-skola
-Primjena pythona u matematičkim problemima osnovne škole
+# python-matematika-fizika (osnovan i srednja škola)
+Primjena pythona u školskim matematičkim i fizikalnim problemima
 
 kosi-hitac.py
   - crtanje putanje (x,y) kosog hica definiranog početnom brzinom i kutem hica
