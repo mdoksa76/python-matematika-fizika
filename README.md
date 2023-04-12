@@ -20,3 +20,7 @@ polinom3.py
   - crtanje grafa polinoma ax^3+bx^2+cx+d (unose se koeficijenti a, b, c, d)
   - koristi se plotext modul za plotanje u terminalu
   - snimanje u .txt i .html (.txt nije u boji)
+
+![My Image](images/grafovi.png)
+
+![My Image](images/grafovi-txt.png)
