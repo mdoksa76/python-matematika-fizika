@@ -11,7 +11,7 @@ kosi-hitac.py
 ![My Image](images/kosi-hitac-txt.png)
 
 linearna-funkcija.py
-  - crtanje grafa linearne funckije
+  - crtanje grafa linearne funckije (pravca)
   - izračun sjecišta pravaca
   - snimanje slike u .eps i .jpg formatu
   - easter egg: funkcija-ab.txt
