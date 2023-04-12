@@ -8,6 +8,8 @@ kosi-hitac.py
 
 ![My Image](images/kosi-hitac.png)
 
+![My Image](images/kosi-hitac-txt.png)
+
 linearna-funkcija.py
   - crtanje grafa linearne funckije
   - izračun sjecišta pravaca
