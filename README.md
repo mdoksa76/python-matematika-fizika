@@ -10,7 +10,7 @@ Primjena pythona u školskim matematičkim i fizikalnim problemima.
 
 ![My Image](images/kosi-hitac-txt.png)
 
-<hr>
+<hr style="border:2px solid gray>
 
 **linearna-funkcija.py**
   - crtanje grafa linearne funckije (pravca)
@@ -20,7 +20,7 @@ Primjena pythona u školskim matematičkim i fizikalnim problemima.
   
 ![My Image](images/linearne-funkcije.png)
 
-<hr>
+<hr style="border:2px solid gray>
   
 **polinom3.py**
   - crtanje grafa polinoma ax^3+bx^2+cx+d (unose se koeficijenti a, b, c, d)
@@ -31,4 +31,4 @@ Primjena pythona u školskim matematičkim i fizikalnim problemima.
 
 ![My Image](images/grafovi-txt.png)
 
-<hr>
+<hr style="border:2px solid gray>
