@@ -6,7 +6,7 @@ kosi-hitac.py
   - korisit se plotext modul za plotanje grafike u terminalu
   - snimanje u .txt i .html (.txt nije u boji)
 
-
+![My Image](images/kosi-hitac.png)
 
 linearna-funkcija.py
   - crtanje grafa linearne funckije
