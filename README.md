@@ -16,6 +16,8 @@ linearna-funkcija.py
   - snimanje slike u .eps i .jpg formatu
   - easter egg: funkcija-ab.txt
   
+![My Image](images/linearne-funkcije.png)
+  
 polinom3.py
   - crtanje grafa polinoma ax^3+bx^2+cx+d (unose se koeficijenti a, b, c, d)
   - koristi se plotext modul za plotanje u terminalu
