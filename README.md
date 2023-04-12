@@ -2,7 +2,7 @@
 Primjena pythona u školskim matematičkim i fizikalnim problemima
 
 kosi-hitac.py
-  - crtanje putanje (x,y) kosog hica definiranog početnom brzinom i kutem hica
+  - crtanje putanje (x,y) kosog hica definiranog početnom brzinom i kutem hica u stupnjevima
   - koristi se plotext modul za plotanje grafike u terminalu
   - snimanje u .txt i .html (.txt nije u boji)
 
