@@ -1,4 +1,4 @@
-# python-matematika-fizika (osnovan i srednja škola)
+# python-matematika-fizika (osnovna i srednja škola)
 Primjena pythona u školskim matematičkim i fizikalnim problemima
 
 kosi-hitac.py
