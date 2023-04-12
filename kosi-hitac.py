@@ -12,16 +12,16 @@ maxx = []
 maxy = []
 
 def kosihitac(v0, alfa):
-    t=0
-    x=0
-    y=0
+    t = 0
+    x = 0
+    y = 0
     px.append(x)
     py.append(y)
-    dt=0.01
-    g=9.81
+    dt = 0.01
+    g = 9.81
     vx = v0 * math.cos(alfa * math.pi/180)
     vy = v0 * math.sin(alfa * math.pi/180)
-    while (y>=0):
+    while (y >= 0):
         t = t + dt
         x = vx * t
         vy = vy - g * dt
@@ -32,7 +32,7 @@ def kosihitac(v0, alfa):
         maxy.append(max(py))
 
 def main():
-    i=0
+    i = 0
     filename_txt = "kosi-hitac-" + datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + ".txt"
     filename_html = "kosi-hitac-" + datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + ".html"
     file_path_txt = os.path.join(os.getcwd(), filename_txt)
@@ -45,7 +45,7 @@ def main():
         except ValueError:
             print("Pogrešan unos, ponovi!")
             continue
-        i=i+1
+        i = i + 1
         kosihitac(v0, alfa)
         print("Kosi hitac")
         plt.scatter(px, py, label = v0alfa[i-1])
