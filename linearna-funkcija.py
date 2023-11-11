@@ -255,14 +255,14 @@ prozor.onkey(novi_prozor, "Delete")
 # izračun točke sjecišta 2 pravca
 prozor.onkey(s2p, "s")
 
-#izlaz iz programa
+# izlaz iz programa
 prozor.onkey(izlaz, "Escape")
 
 # ispis pomoći i crtanje radnog prozora, kks = Kartezijev koordinatni sustav
 pomoc()
 kks()
 
-#testni uzorak pravaca
+# testni uzorak pravaca
 #pravac(0.75,-25)
 #pravac(0.75,25)
 #pravac(-0.75,25)
