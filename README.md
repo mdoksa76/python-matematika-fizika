@@ -29,7 +29,15 @@ Primjena pythona u školskim matematičkim i fizikalnim problemima.
 ![My Image](images/linearne-funkcije-v2.png)
 
 <hr>
-  
+
+**kvadratna-funkcija.py
+  - crtanje grafa kvadratne funckije (parabole)
+  - snimanje slike u .eps i .jpg formatu
+
+![My Image](images/kvadratna-funkcija.png)
+
+<hr>
+
 **polinom3.py**
   - crtanje grafa polinoma ax^3+bx^2+cx+d (unose se koeficijenti a, b, c, d)
   - koristi se plotext modul za plotanje u terminalu
