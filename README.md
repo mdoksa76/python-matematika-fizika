@@ -23,6 +23,7 @@ Primjena pythona u školskim matematičkim i fizikalnim problemima.
 <hr>
 
 **linearna-funkcija-v2.py**
+  Dodana funkcionalnost u odnosu na linearna-funkcija.py:
   - vertikalni pravac, x=konstanta
   - sjecište pravca s vertikalnim pravcem
 
