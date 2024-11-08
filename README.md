@@ -50,3 +50,12 @@ Primjena pythona u školskim matematičkim i fizikalnim problemima.
 ![My Image](images/grafovi-txt.png)
 
 <hr>
+
+**polinom-n-stupnja.py**
+  - crtanje grafa polinoma a_n * x^n + a_(n-1) * x^(n-1) + ... + a_1 * x^1 +a_0 * x^0 (unose se koeficijenti a_n, a_(n-1), ... , a_1, a_0)
+  - koristi se plotext modul za plotanje u terminalu
+
+![My Image](images/polinom-n.png)
+
+<hr>
+
