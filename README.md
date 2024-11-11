@@ -16,7 +16,6 @@ Primjena pythona u školskim matematičkim i fizikalnim problemima.
   - crtanje grafa linearne funckije (pravca)
   - izračun sjecišta pravaca
   - snimanje slike u .eps i .jpg formatu
-  - easter egg: funkcija-ab.txt
   
 ![My Image](images/linearne-funkcije.png)
 
