@@ -33,7 +33,7 @@ Primjena pythona u školskim matematičkim i fizikalnim problemima.
 <hr>
 
 **kvadratna-funkcija.py**
-  - crtanje grafa kvadratne funckije (parabole)
+  - crtanje grafa kvadratne funkcije (parabole)
   - snimanje slike u .eps i .jpg formatu
 
 ![My Image](images/kvadratna-funkcija.png)
